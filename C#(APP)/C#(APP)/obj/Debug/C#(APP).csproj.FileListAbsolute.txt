@@ -1,0 +1,7 @@
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\bin\Debug\C#(APP).exe.config
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\bin\Debug\C#(APP).exe
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\bin\Debug\C#(APP).pdb
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\obj\Debug\C#(APP).csproj.AssemblyReference.cache
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\obj\Debug\C#(APP).csproj.CoreCompileInputs.cache
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\obj\Debug\C#(APP).exe
+C:\2nd semester\OOP\PD\C#(APP)\C#(APP)\obj\Debug\C#(APP).pdb
