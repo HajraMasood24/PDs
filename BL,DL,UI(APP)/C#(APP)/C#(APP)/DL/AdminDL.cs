@@ -67,7 +67,7 @@ namespace C__APP_.DL
         }
         public static void addInfo(string username, string name, string email, string cell, string password)
         {
-            string query = $"INSERT INTO menu (username, name, pin, email, cel) VALUES ('{username}', '{name}','{password}','{email}','{cell}')";
+            string query = $"INSERT INTO card_holder (username, name, pin, email, cel) VALUES ('{username}', '{name}','{password}','{email}','{cell}')";
 
             DatabaseHelper.Instance.Update(query);
             Console.WriteLine("Added successfully");

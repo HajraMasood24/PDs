@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\5\\consoleapp1\\consoleapp1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\pd5\\consoleapp1\\consoleapp1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\5\\consoleapp1\\consoleapp1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\consoleapp1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\5\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\5\\consoleapp1\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|c:\\2nd semester\\oop\\pd\\5\\consoleapp1\\consoleapp1\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\consoleapp1\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2D4A4A8-FE4E-447F-AF11-B690E9F82B38}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,22 +36,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserUI.cs",
-              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\UI\\UserUI.cs",
+              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\UI\\UserUI.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\UI\\UserUI.cs",
-              "ToolTip": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\UI\\UserUI.cs",
+              "ToolTip": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\UI\\UserUI.cs",
               "RelativeToolTip": "ConsoleApp1\\UI\\UserUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T10:14:19.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T10:14:19.443Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\UI\\MainMenu.cs",
+              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\UI\\MainMenu.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\UI\\MainMenu.cs",
-              "ToolTip": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\UI\\MainMenu.cs",
               "RelativeToolTip": "ConsoleApp1\\UI\\MainMenu.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,40 +61,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Product.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Product.cs",
-              "ToolTip": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "ToolTip": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Product.cs",
               "RelativeToolTip": "ConsoleApp1\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:20:14.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:20:14.583Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Customers.cs",
-              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Customers.cs",
+              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Customers.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Customers.cs",
-              "ToolTip": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Customers.cs",
+              "ToolTip": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Customers.cs",
               "RelativeToolTip": "ConsoleApp1\\Customers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:19:55.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:19:55.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\2nd semester\\OOP\\PD\\5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\2nd semester\\OOP\\PD\\PD5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:19:21.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T09:19:21.095Z"
             }
           ]
         }
